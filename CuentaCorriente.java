@@ -1,4 +1,4 @@
-package molero.german.cuentaCorriente;
+package molero.german;
 
 public class CuentaCorriente {
 	private String nombre;
