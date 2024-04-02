@@ -1,5 +1,6 @@
 package molero.german;
 
+//Otro comentario para subir a GitHub
 public class CuentaCorriente {
 	private String nombre;
 	private double saldo;
